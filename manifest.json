@@ -1,0 +1,11 @@
+{
+  "name": "Pick a Color",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "A Chrome extension that lets you pick a color",
+  "permissions": ["activeTab"],
+  "action": {
+    "title": "Pick a Color",
+    "popup":"popup.html"
+  }
+}
